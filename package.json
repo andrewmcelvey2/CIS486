@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/andrewmcelvey2/CIS486/issues"
   },
-  "homepage": "https://github.com/andrewmcelvey2/CIS486#readme"
+  "homepage": "https://github.com/andrewmcelvey2/CIS486#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "exxpress": "^1.0.0"
+  }
 }
